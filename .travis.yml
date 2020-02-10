@@ -12,6 +12,6 @@ install:
 
 script: 
 
-  - gcc hello.c -o hello -lcurl
+  - gcc hello.c -o hello
 
   - ./hello
