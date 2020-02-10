@@ -32,7 +32,7 @@ int main(void)
     curl_easy_cleanup(curl);
 
   }*/
-  cout<<"hello,sucess!"<<endl;
+  printf("hello,success!\n");
 
   return 0;
 
