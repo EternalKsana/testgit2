@@ -8,7 +8,7 @@ int main(void)
 
 {
 
-  CURL *curl;
+/*  CURL *curl;
 
   CURLcode res;
 
@@ -31,7 +31,8 @@ int main(void)
 
     curl_easy_cleanup(curl);
 
-  }
+  }*/
+  ptintf("this is a update!");
 
   return 0;
 
